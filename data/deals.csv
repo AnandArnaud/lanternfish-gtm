@@ -1,0 +1,201 @@
+deal_id,company_name,domain,stage,amount_usd,close_date,owner,created_date,last_activity_date,next_step
+D-1001,Valeworks Software,www.valeworks.io,Negotiation,4000,2026-11-13,Priya Natarajan,2024-01-01,2026-08-20,Send proposal
+D-1002,Odoo,odoo.com,Discovery,213000,2027-01-07,Léa Marchand,2023-12-14 00:00:00,2026-08-21,
+D-1003,Elmkit Goods SAS,elmkit.ai,Evaluation,205500,2026-10-21,Marcus Reed,2026-09-03,2026-09-03,Technical validation
+D-1004,Sedgelayer Studios,getsedgelayer.com,Evaluation,5500,2026-11-02,Tom Oakes,2022-10-27,2026-08-08,"Champion out, re-qualify"
+D-1005,Gazedros Freight,gazedros.co,Verbal,7500,2026-08-18,Daniel Okafor,2023-01-15,2026-09-22,Security review
+D-1006,Heronspark,,Qualification,9000,2027-01-01,Tom Oakes,2023-01-16 00:00:00,2026-08-17,
+D-1007,Anaplan,anaplan.com,Negotiation,91000,2026-10-19,Daniel Okafor,2022-01-30,2026-09-18,Renewal alignment
+D-1008,Gablecloud,gablecloud.ai,Negotiation,6000,2026-12-24,Léa Marchand,2023-06-13,2026-08-30,Technical validation
+D-1009,Zinniascale,zinniascale.com,Proposal,9500,2026-12-31,Tom Oakes,2023-11-24,2026-10-01,Waiting on legal
+D-1010,harvey,harvey.ai,Qualification,10000,2027-03-29,Daniel Okafor,2022-09-19,2026-08-21,Exec sponsor intro
+D-1011,Krevaquat Systems,krevaquat.io,Proposal,5500,2027-02-20,Tom Oakes,2021-08-19,2026-09-24,Renewal alignment
+D-1012,LaunchDarkly,launchdarkly.com,Qualification,27500,2026-12-13,Léa Marchand,2025-07-17,2026-08-31,Pilot kickoff
+D-1013,Bramblenode Advisory,bramblenode.com,Evaluation,5500,2026-12-17,Léa Marchand,2025-04-21,2026-05-23,"Champion out, re-qualify"
+D-1014,Pebblestream Industries,getpebblestream.ai,Proposal,44500,2026-10-11,Sofia Lindqvist,2025-11-16,2026-03-09,
+D-1015,Volazas,volazas.ai,Negotiation,8000,2027-01-17,Tom Oakes,2026-10-05,2026-10-05,Security review
+D-1016,Yarrowpilot Pty Ltd,yarrowpilot.com.au,Discovery,17000,2026-12-31,Daniel Okafor,2022-10-18,2026-04-12,Technical validation
+D-1017,bepon,getbepon.io,Contracting,4500,2027-04-02,Sofia Lindqvist,2025-04-27,2025-04-27 00:00:00,Waiting on legal
+D-1018,Cisco,cisco.com,Proposal,162500,2027-02-24,Priya Natarajan,2021-06-19,2026-08-23,
+D-1019,Nimbusbridge Consulting,www.nimbusbridge.com,Proposal,8000,2026-11-08,Daniel Okafor,2025-07-19,2025-07-19,Follow up after demo
+D-1020,Alderworks,alderworks.io,Contracting,5000,2026-10-03,Sofia Lindqvist,2026-04-06,2026-09-27,Exec sponsor intro
+D-1021,Amberly Security,amberly.ai,Discovery,9500,2026-12-12,Sofia Lindqvist,2024-11-05,2026-09-18,Mutual action plan
+D-1022,Weld Works Advisory,,Discovery,200500,2027-03-24,Tom Oakes,2022-12-05,2026-09-12,Exec sponsor intro
+D-1023,Harrowify HQ,harrowifyhq.co,Negotiation,9500,2026-12-30,Priya Natarajan,2022-09-20,2025-10-20,Technical validation
+D-1024,Cognizant,,Contracting,298000,2026-12-30,Tom Oakes,2021-10-03 00:00:00,2025-01-17,Pricing to CFO
+D-1025,Mindee,www.mindee.com,Discovery,8000,2027-03-08,Léa Marchand,2025-06-22,2026-07-19,Procurement call Thursday
+D-1026,Knoll Desk,knolldeskapp.io,Proposal,9500,2027-02-20,Daniel Okafor,2023-10-13,2023-10-13,Security review
+D-1027,Azur Digital,azurdigital.ai,Verbal,7500,2026-09-21,Priya Natarajan,2022-07-12,2025-12-04,Reference call
+D-1028,Driftwave Press,driftwave.co,Evaluation,29500,2027-02-25,Léa Marchand,2021-10-29,2026-04-08,Send proposal
+D-1029,Pebblepath,pebblepath.com,Contracting,56000,2026-12-23,Léa Marchand,2021-07-10,2026-09-21,Mutual action plan
+D-1030,Reply,reply.io,Proposal,6500,2026-08-27,Léa Marchand,2024-01-10,2026-07-26,Security review
+D-1031,Hollow Spark Data SA,hollowspark.com,Contracting,4000,2026-11-20,Marcus Reed,2024-01-23,2026-09-02,Exec sponsor intro
+D-1032,Slateframe Partners,slateframe.io,Contracting,22500,2026-12-03,Léa Marchand,2023-01-02,2023-01-02,Security review
+D-1033,Lisket Finance,,Proposal,5500,2026-11-23,Daniel Okafor,2021-12-26,2026-08-08,Pricing to CFO
+D-1034,Hibrus Labs,hibrus.io,Evaluation,5500,2027-02-27,Daniel Okafor,2022-03-27,2026-09-14,Pricing to CFO
+D-1035,Regaru HQ GmbH,regaru.ai,Qualification,9000,2027-01-17,Léa Marchand,2025-05-09,2026-09-22,Reference call
+D-1036,Valesignal Labs,valesignal.co,Qualification,7000,2026-11-30,Sofia Lindqvist,2023-08-19,2026-08-17,
+D-1037,Tihet Academy,tihet.io,Qualification,9000,2027-01-03,Marcus Reed,2026-04-01,2026-09-22,Exec sponsor intro
+D-1038,Mitrehor HQ,mitrehor.io,Qualification,8000,2027-01-31,Daniel Okafor,2026-10-01,2026-10-01,Waiting on legal
+D-1039,Ivorystream,ivorystream.com,Qualification,9500,2026-11-19,Priya Natarajan,2022-07-27,7/22/2026,
+D-1040,Brafedras Digital Services,www.getbrafedras.com,Qualification,70500,2027-02-16,Daniel Okafor,2024-10-15 00:00:00,2026-09-04,Security review
+D-1041,Quartzbridge,quartzbridge.io,Proposal,4500,2026-09-29,Priya Natarajan,2024-04-01,2026-09-21,Send proposal
+D-1042,Larchlabs Data,larchlabshq.com,Contracting,7500,2027-03-18,Priya Natarajan,2022-08-19,2025-10-08,
+D-1043,Vetchly Finance,vetchlyhq.com,Negotiation,48500,2026-08-08,Sofia Lindqvist,2026-06-29,2026-07-14,
+D-1044,Mambu,mambu.com,Negotiation,26500,2026-09-09,Priya Natarajan,2021-12-08,2025-09-29,Follow up after demo
+D-1045,Meadowdata Data,getmeadowdata.com,Evaluation,211000,2026-11-10,Léa Marchand,2026-09-21,2026-09-21,Technical validation
+D-1046,Yotpo,yotpo.com,Proposal,39000,2026-11-16,Marcus Reed,2025-10-02,2025-11-26 00:00:00,Pricing to CFO
+D-1047,Willow Bridge Finance,willowbridge.com,Contracting,15000,2026-12-12,Daniel Okafor,2023-05-05,2026-03-28,Renewal alignment
+D-1048,Saffronworks Tech Services,saffronworks.ai,Qualification,8500,2026-11-01,Priya Natarajan,2026-09-22,2026-09-22,"Champion out, re-qualify"
+D-1049,Clipalm Digital Services,getclipalm.co,Verbal,7000,2026-09-21,Sofia Lindqvist,2021-08-16,2026-09-13,Technical validation
+D-1050,Fjordmetrics Freight Inc.,,Discovery,4500,2026-11-15,Sofia Lindqvist,2025-09-03,2026-07-13,
+D-1051,Alder Wave,www.alder-wave.ai,Qualification,7500,2027-02-08,Priya Natarajan,2026-09-03 00:00:00,2026-09-03,Security review
+D-1052,Loamcraft Capital,loamcraft.io,Qualification,4000,2027-03-28,Marcus Reed,2025-12-19,2026-08-03,Follow up after demo
+D-1053,Totango,www.totango.com,Verbal,8000,2027-03-02,Priya Natarajan,2021-10-22,2025-03-22,Security review
+D-1054,Vellumforge Advisory,vellumforge.ai,Qualification,9000,2027-03-06,Marcus Reed,2021-07-09,2026-09-29,Send proposal
+D-1055,Sable Stack Publishing AB,www.sable-stack.com,Evaluation,6000,2027-01-19,Tom Oakes,2025-04-17,2025-12-25,Security review
+D-1056,Zenoti,zenoti.com,Discovery,29500,2027-03-06,Léa Marchand,2022-05-09,2026-08-09,
+D-1057,q2,q2.com,Negotiation,124000,2027-02-17,Priya Natarajan,2023-01-07,2026-07-21,
+D-1058,Soton Publishing,,Proposal,235500,2026-09-24,Sofia Lindqvist,2023-12-20,2026-09-30,Pricing to CFO
+D-1059,Vedo Industrial Inc.,vedo.ai,Verbal,4000,2026-10-21,Léa Marchand,2026-10-05,2026-10-05,
+D-1060,LysCloud,lyscloud.io,Evaluation,9500,2027-01-04,Sofia Lindqvist,2026-03-28,2026-08-06,Mutual action plan
+D-1061,Cedarlabs Labs,cedarlabs.io,Qualification,4500,2026-08-18,Daniel Okafor,2025-12-18,2026-06-22,Pricing to CFO
+D-1062,Zifla Inc,getzifla.com,Qualification,6000,2026-12-09,Tom Oakes,2026-09-01,2026-09-01,Pricing to CFO
+D-1063,Sorrelhub Clinics,sorrelhub.com,Evaluation,7500,2026-11-12,Priya Natarajan,2026-03-26 00:00:00,2026-03-26,Waiting on legal
+D-1064,Fortnox,fortnox.se,Negotiation,24000,2027-01-23,Léa Marchand,2025-07-14,2025-07-14,Pilot kickoff
+D-1065,Sedgeflow Germany GmbH,sedgeflow.de,Verbal,10000,2027-01-30,Tom Oakes,2022-05-26,8/14/2026,Pricing to CFO
+D-1066,Orchard Hub Defense,orchard-hub.co,Discovery,6500,2027-03-31,Léa Marchand,2022-01-30,2026-09-06,Pricing to CFO
+D-1067,Woldpath Analytics,woldpath.io,Qualification,4500,2026-09-10,Tom Oakes,2024-08-05,2025-10-22,Pricing to CFO
+D-1068,Cime Data,,Evaluation,10000,2026-12-26,Priya Natarajan,2021-02-01,2026-07-12,Pricing to CFO
+D-1069,WPP,www.wpp.com,Discovery,291500,2026-10-25,Sofia Lindqvist,2026-02-28,2026-02-28,Pricing to CFO
+D-1070,Lantern Cloud Clinics,lanterncloud.com,Qualification,147000,2026-09-05,Léa Marchand,2025-11-06 00:00:00,2025-11-06,Pricing to CFO
+D-1071,Paddle,paddle.com,Proposal,16500,2026-12-15,Marcus Reed,2026-09-26,2026-09-26,Renewal alignment
+D-1072,Gopriskor Manufacturing,www.gopriskor.io,Negotiation,7500,2026-09-05,Léa Marchand,2022-12-05,2026-09-26,Renewal alignment
+D-1073,Grukralm Advisory,getgrukralm.co,Qualification,8000,2027-02-05,Priya Natarajan,2026-09-02,2026-09-02,Follow up after demo
+D-1074,Fluflolm Energy,fluflolm.io,Proposal,6500,2026-12-09,Sofia Lindqvist,2022-12-08,2026-09-01,Pricing to CFO
+D-1075,Alteryx,alteryx.com,Evaluation,106000,2026-09-08,Daniel Okafor,2023-04-11,2026-10-05,
+D-1076,Lugrir Pay,getlugrir.com,Verbal,6500,2026-12-27,Marcus Reed,2024-07-06,2026-03-08,Waiting on legal
+D-1077,Harrowworks,harrowworks.io,Discovery,10000,2027-01-13,Léa Marchand,2022-09-10,2025-04-14,Security review
+D-1078,ÉtoileSoft,etoilesoft.io,Discovery,8500,2026-11-06,Daniel Okafor,2022-10-25,2026-03-11,Security review
+D-1079,Zedripal,zedripal.com,Proposal,10000,2026-11-11,Marcus Reed,2026-10-05,2026-10-05 00:00:00,"Champion out, re-qualify"
+D-1080,Weights & Biases,wandb.ai,Evaluation,15000,2026-10-30,Priya Natarajan,2026-03-20,2026-03-20,Exec sponsor intro
+D-1081,Fjordflow Market,www.fjordflow.com,Contracting,67500,2027-01-15,Daniel Okafor,2023-04-27,2026-08-14,Technical validation
+D-1082,Cairn Ware BV,cairn-ware.io,Negotiation,12500,2026-11-23,Daniel Okafor,2026-09-19,2026-09-19,
+D-1083,Cobblelabs,cobblelabs.com,Discovery,56500,2026-10-14,Tom Oakes,2022-02-07,2026-07-31,Mutual action plan
+D-1084,Tarncloud Capital,tarncloud.com,Proposal,115000,2026-11-07,Léa Marchand,2024-04-06,2026-08-20,
+D-1085,nettlecloud hr,nettlecloud.ai,Qualification,4500,2026-09-25,Daniel Okafor,2026-02-04,2026-07-20,"Champion out, re-qualify"
+D-1086,Betrot Data,betrot.com,Proposal,16000,2026-10-26,Tom Oakes,2024-04-21,2025-05-07,Send proposal
+D-1087,Russetworks,russetworks.com,Evaluation,5500,2026-12-22,Priya Natarajan,2022-08-23,2025-04-06,
+D-1088,VigneNumérique,vignenumerique.com,Discovery,9000,2027-03-10,Tom Oakes,2025-12-08,2025-12-08,
+D-1089,Ziskat Medical,ziskatapp.io,Proposal,8500,2026-12-26,Marcus Reed,2021-10-06,2025-11-07,Pilot kickoff
+D-1090,Nookbridge Labs,nookbridge.co,Negotiation,9000,2026-09-23,Marcus Reed,2025-08-28,2025-08-28,Procurement call Thursday
+D-1091,Cabrov Data LLC,cabrov.com,Verbal,29500,2026-12-13,Sofia Lindqvist,2024-05-12,2026-08-06,Renewal alignment
+D-1092,Quaystream,quaystream.io,Qualification,105000,2027-01-13,Daniel Okafor,2023-07-06,2024-12-26,Reference call
+D-1093,PlanetScale,planetscale.com,Proposal,5500,2027-02-01,Priya Natarajan,2024-12-04,9/12/2026,Renewal alignment
+D-1094,arborbridge corp.,arborbridgehq.co,Discovery,9500,2026-10-12,Marcus Reed,2021-10-22,2026-08-14,Renewal alignment
+D-1095,Pikestream,pikestream.co,Qualification,9000,2027-02-24,Priya Natarajan,2024-08-05,12/24/2025,Send proposal
+D-1096,ActiveCampaign,activecampaign.com,Proposal,49500,2027-01-10,Sofia Lindqvist,2023-08-02,2026-09-11,
+D-1097,Software AG,softwareag.com,Proposal,177000,2027-02-03,Sofia Lindqvist,2026-07-25,2026-09-10,Mutual action plan
+D-1098,BrumeFlow,brumeflow.com,Proposal,4000,2026-12-02,Léa Marchand,2024-05-23,9/11/2026,
+D-1099,Grève Logic,grevelogic.io,Evaluation,6500,2026-09-12,Priya Natarajan,2024-04-09,2026-08-08,Procurement call Thursday
+D-1100,joncanalytics,joncanalytics.co,Discovery,8000,2026-08-17,Léa Marchand,2023-01-02,2025-09-13,Follow up after demo
+D-1101,Oneflow,,Negotiation,9500,2026-08-19,Léa Marchand,2022-02-04,2026-09-15,Security review
+D-1102,Walmart,walmart.com,Proposal,230000,2027-03-19,Tom Oakes,2021-12-31,2025-06-24,Security review
+D-1103,Skeflox,skeflox.com,Negotiation,7000,2026-12-18,Léa Marchand,2023-09-05,2025-10-20,
+D-1104,TOTVS,totvs.com,Qualification,273000,2026-12-07,Daniel Okafor,2024-05-02,2025-05-21,
+D-1105,Studrat,studratapp.com,Discovery,8500,2026-11-30,Léa Marchand,2026-02-06,2026-02-06,
+D-1106,Wrenmind Pay,wrenmind.co,Negotiation,22000,2027-01-08,Daniel Okafor,2025-04-23,2026-09-05,Pricing to CFO
+D-1107,Driftstack Defense AB,,Evaluation,28000,2026-10-29,Tom Oakes,2025-05-26,8/11/2026,"Champion out, re-qualify"
+D-1108,Koclaplo,koclaplo.com,Discovery,8000,2027-03-23,Priya Natarajan,2024-03-05,2026-09-13,Security review
+D-1109,Oak Spark,,Qualification,9000,2026-09-24,Daniel Okafor,2026-08-22,2026-08-22 00:00:00,Pilot kickoff
+D-1110,DoubleVerify,doubleverify.com,Proposal,25500,2026-09-24,Tom Oakes,2025-12-14,2026-09-27,Pricing to CFO
+D-1111,Ospreyio Analytics,,Proposal,7000,2027-02-11,Daniel Okafor,2023-05-01,2026-08-31,Pilot kickoff
+D-1112,SabotDigital,sabotdigital.ai,Proposal,5000,2026-09-08,Léa Marchand,2025-05-31,2025-07-17,Reference call
+D-1113,Rowan Ops Advisory,rowanops.com,Contracting,7500,2026-08-14,Sofia Lindqvist,2026-07-27,2026-07-27,Send proposal
+D-1114,Rillmind SA,www.rillmind.io,Negotiation,9500,2026-12-31,Marcus Reed,2021-06-18,2026-08-09,
+D-1115,Oakware Consulting,oakware.com,Evaluation,9500,2027-01-10,Sofia Lindqvist,2022-02-19,2026-06-16,Technical validation
+D-1116,Russet Stack BV,russet-stack.com,Proposal,8000,2026-11-12,Léa Marchand,2026-10-05,2026-10-05,Follow up after demo
+D-1117,Brinilm Software,,Qualification,18000,2026-09-27,Léa Marchand,2024-12-15,2026-09-15,Follow up after demo
+D-1118,Ochre Mind,ochre-mind.com,Negotiation,9500,2026-11-29,Sofia Lindqvist,2022-03-01,2026-08-10,Exec sponsor intro
+D-1119,JoncNumérique,getjoncnumerique.io,Negotiation,6000,2027-01-25,Marcus Reed,2026-01-13,2026-08-14,Pricing to CFO
+D-1120,Nookpath Games,nookpathapp.io,Proposal,4500,2026-10-28,Priya Natarajan,2024-04-26,2024-04-26,Waiting on legal
+D-1121,Pebblebase Precision SAS,pebblebase.ai,Qualification,8500,2027-01-21,Tom Oakes,2025-02-12,2026-02-01,Technical validation
+D-1122,Cedargrid,cedargrid.io,Qualification,7500,2026-09-17,Léa Marchand,2024-11-11,2026-08-06,Renewal alignment
+D-1123,iAdvize,iadvize.com,Evaluation,11000,2027-01-24,Tom Oakes,2024-12-06,8/11/2026,
+D-1124,Biprocex Software,biprocex.co,Contracting,8000,2026-08-09,Priya Natarajan,2025-08-08,2025-11-14,Security review
+D-1125,Heron Ops Technologies,,Evaluation,9000,2027-01-30,Tom Oakes,2024-02-20,2026-01-11,Waiting on legal
+D-1126,Elmlane Networks,getelmlane.io,Qualification,5500,2026-11-08,Marcus Reed,2022-04-22,2026-08-07,Reference call
+D-1127,Cedarops Care,cedarops.io,Negotiation,70500,2027-03-25,Léa Marchand,2025-03-07,2026-05-11,Mutual action plan
+D-1128,Wren Stream Precision,wren-stream.com,Qualification,7500,2027-03-07,Tom Oakes,2024-04-09,2026-08-21,Technical validation
+D-1129,Progrox Hotels,progrox.ai,Qualification,8000,2026-08-27,Daniel Okafor,2026-09-03,2026-09-03,Follow up after demo
+D-1130,Drunav,drunav.co,Discovery,7500,2026-10-19,Tom Oakes,2021-05-03,2021-05-03,Renewal alignment
+D-1131,Zinniadata Bank SA,zinniadata.com,Qualification,9000,2026-12-03,Tom Oakes,2026-04-30,2026-09-26,Security review
+D-1132,Ivoryhub HR,,Negotiation,9500,2026-10-19,Sofia Lindqvist,2024-11-21,2026-08-02 00:00:00,Pricing to CFO
+D-1133,LysLogic,lyslogic.ai,Discovery,6000,2026-11-26,Tom Oakes,2021-09-13,2026-06-14,Pricing to CFO
+D-1134,ricend industries,ricend.io,Discovery,62500,2026-11-22,Léa Marchand,2026-09-11,2026-09-28,Procurement call Thursday
+D-1135,Nookcraft,nookcraft.co,Evaluation,9500,2026-08-20,Marcus Reed,2026-10-05,2026-10-05,Mutual action plan
+D-1136,Rotrirt Data Inc.,rotrirt.com,Discovery,122500,2026-10-23,Léa Marchand,2021-10-28,2025-04-03,Reference call
+D-1137,Valemetrics Retail,valemetricshq.io,Qualification,8000,2026-08-14,Léa Marchand,2024-07-17,2026-02-23,Exec sponsor intro
+D-1138,Colax GmbH,colax.de,Discovery,50500,2026-12-20,Priya Natarajan,2025-03-31,2026-03-05,
+D-1139,Ivory Lane Systems,ivorylane.io,Negotiation,60000,2027-02-03,Léa Marchand,2026-10-05,2026-10-05,Send proposal
+D-1140,Vetchflow Advisory,vetchflow.com,Evaluation,7000,2026-09-06,Daniel Okafor,2024-05-11,2025-06-01,Security review
+D-1141,Miro,miro.com,Qualification,70500,2027-01-14,Léa Marchand,2023-04-14,2025-04-24,Pricing to CFO
+D-1142,Pikepilot SAS,pikepilot.io,Discovery,9500,2026-12-04,Daniel Okafor,2023-03-02,2026-09-28,Pricing to CFO
+D-1143,Loambridge Academy,loambridge.com,Discovery,196000,2027-02-02,Sofia Lindqvist,1/3/2023,2026-03-16 00:00:00,Technical validation
+D-1144,Garnetpilot Learning,garnetpilot.ai,Discovery,7000,2026-11-26,Marcus Reed,2026-05-28,2026-05-28,Renewal alignment
+D-1145,Hape IT Services,hape.com,Evaluation,5500,2027-01-09,Sofia Lindqvist,2022-01-08,2025-12-31,Pricing to CFO
+D-1146,Petrelbridge,petrelbridge.com,Contracting,8000,2026-10-10,Marcus Reed,2026-10-05,2026-10-05,Technical validation
+D-1147,Nimbuslayer Creative,nimbuslayer.com,Negotiation,6000,2027-02-19,Marcus Reed,2026-02-24,2026-10-01,
+D-1148,Pikely & Associates,pikely.ai,Discovery,4500,2026-08-17,Daniel Okafor,2025-07-12,2026-07-28,Technical validation
+D-1149,Emberworks Capital,,Negotiation,7000,2027-03-18,Sofia Lindqvist,2024-06-16,2026-09-16,Mutual action plan
+D-1150,Emberstream Labs,emberstream.com,Discovery,19500,2026-09-26,Priya Natarajan,2024-05-25,2026-08-03,Technical validation
+D-1151,Slatespark,slatespark.com,Evaluation,4500,2026-12-27,Tom Oakes,2022-01-10,2026-09-17,Follow up after demo
+D-1152,Greenhouse,greenhouse.com,Proposal,26500,2027-01-26,Priya Natarajan,2026-05-30,2026-05-30 00:00:00,Renewal alignment
+D-1153,Woldstack People,woldstack.com,Discovery,4000,2027-03-26,Léa Marchand,2021-06-15 00:00:00,2024-11-03 00:00:00,Reference call
+D-1154,EasyVista,easyvista.com,Negotiation,20500,2027-03-17,Sofia Lindqvist,2022-09-12,2026-10-06,Technical validation
+D-1155,Ivoryify,ivoryify.io,Evaluation,5500,2027-01-21,Daniel Okafor,2021-02-17,2025-09-11,Pricing to CFO
+D-1156,Ploverlabs Labs,ploverlabs.co,Qualification,48000,2027-01-20,Priya Natarajan,2026-09-04,2026-09-04,Follow up after demo
+D-1157,Dalones Data,dalones.ai,Qualification,7500,2027-03-02,Léa Marchand,2025-05-15,2026-09-29,Send proposal
+D-1158,Dunestack,getdunestack.io,Negotiation,6500,2027-03-20,Léa Marchand,2022-07-22,2026-09-14,Procurement call Thursday
+D-1159,Flintforge Brazil Ltda,flintforge.com.br,Contracting,86000,2027-03-04,Léa Marchand,2026-04-10,2026-09-16,Reference call
+D-1160,Mintlabs Properties,mintlabs.com,Discovery,9500,2026-12-04,Marcus Reed,2025-10-11,2026-09-02,Pricing to CFO
+D-1161,Flint Point,flintpoint.com,Verbal,6000,2027-01-26,Marcus Reed,2026-10-05,2026-10-05,Send proposal
+D-1162,Tidewave Inc.,,Contracting,5000,2026-12-29,Priya Natarajan,2025-01-19,2025-12-28,Mutual action plan
+D-1163,Ridgemind Cloud Inc,,Discovery,5500,2026-10-28,Tom Oakes,2021-08-31,2026-08-21,Procurement call Thursday
+D-1164,Plover Stream,www.ploverstream.com,Contracting,9500,2027-02-15,Léa Marchand,2022-10-16,2026-07-23,
+D-1165,Drogrirt Agency Inc,drogrirt.com,Qualification,6000,2027-03-16,Léa Marchand,2022-04-04,2025-11-25,Security review
+D-1166,Scale AI,scale.com,Discovery,21500,2027-02-11,Priya Natarajan,2022-12-18,2026-09-26,Pilot kickoff
+D-1167,SauleApps,sauleapps.com,Discovery,11500,2027-03-09,Sofia Lindqvist,2021-11-19,2025-12-30,
+D-1168,Iriswave Marketing,iriswave.com,Proposal,4000,2027-03-18,Léa Marchand,2025-05-22,7/22/2026,Exec sponsor intro
+D-1169,Ranan Pay,,Qualification,7500,2026-10-24,Marcus Reed,2021-11-26,2026-07-09,
+D-1170,Wrenflow Consulting,wrenflow.io,Discovery,15500,2026-11-05,Léa Marchand,2025-10-18,2025-10-18,Reference call
+D-1171,AubierSolutions,aubiersolutions.ai,Qualification,4000,2027-02-01,Priya Natarajan,2021-10-15,2026-10-01,
+D-1172,Kelpshift,kelpshift.com,Qualification,6000,2026-11-19,Léa Marchand,2026-04-28,2026-04-28,Reference call
+D-1173,Kalosta,getkalosta.com,Negotiation,9500,2026-10-09,Sofia Lindqvist,2021-10-15,2026-02-12,Technical validation
+D-1174,Hehelalm Pay,hehelalm.com,Evaluation,4000,2027-01-11,Tom Oakes,2021-10-17,2026-08-23,Procurement call Thursday
+D-1175,Vellumflow,vellumflow.io,Proposal,5000,2026-11-30,Sofia Lindqvist,2025-03-24,2026-05-06,Reference call
+D-1176,Brook Kit Labs,brook-kit.io,Verbal,33500,2026-11-07,Daniel Okafor,2024-02-06,2026-09-22,Technical validation
+D-1177,Sorrelpilot,sorrelpilot.ai,Evaluation,7500,2027-04-02,Priya Natarajan,2023-04-07,2026-08-20,Mutual action plan
+D-1178,Somiplun,somiplun.com,Proposal,7500,2027-02-14,Sofia Lindqvist,2022-12-27,2026-07-19,Technical validation
+D-1179,Domo,domo.com,Discovery,48000,2027-03-23,Marcus Reed,2022-08-01,2026-07-23,Pricing to CFO
+D-1180,Eddyhub Properties,eddyhubapp.com,Discovery,6000,2026-12-02,Léa Marchand,2025-01-06,2026-09-21,Pricing to CFO
+D-1181,Umberpoint Sweden AB,umberpoint.se,Proposal,29500,2027-02-02,Tom Oakes,2022-10-06,2026-02-21,Pilot kickoff
+D-1182,Tomend SAS,tomend.io,Proposal,7000,2026-12-08,Sofia Lindqvist,2023-11-24,2025-05-25,Reference call
+D-1183,Probrot,probrot.co,Qualification,8000,2026-12-21,Léa Marchand,2026-04-14,2026-04-14,Technical validation
+D-1184,Zinnia Data Labs,zinnia-data.com,Qualification,10000,2027-01-01,Priya Natarajan,2024-06-10,2026-07-09,Waiting on legal
+D-1185,Dunely Studio,dunely.ai,Proposal,7500,2027-02-05,Marcus Reed,2021-12-23,2025-09-23,Pricing to CFO
+D-1186,HalageAnalytics,halageanalytics.com,Qualification,5000,2027-02-14,Tom Oakes,2025-06-23,2025-06-23,Technical validation
+D-1187,Lantern Base Robotics,lanternbase.co,Qualification,288000,2026-10-23,Priya Natarajan,2023-07-16,2026-10-02,"Champion out, re-qualify"
+D-1188,Dudet GmbH,dudet.ai,Proposal,8500,2027-03-28,Daniel Okafor,2022-12-04,2026-08-24,Procurement call Thursday
+D-1189,Thought Machine,thoughtmachine.net,Evaluation,21500,2027-01-25,Daniel Okafor,2023-01-14,2023-01-14 00:00:00,Pilot kickoff
+D-1190,Vellumsense Consulting,vellumsense.com,Negotiation,7500,2027-03-19,Marcus Reed,2023-03-31,2026-08-10,Procurement call Thursday
+D-1191,Quartz Data,quartzdata.com,Proposal,4500,2027-02-23,Léa Marchand,2021-05-13,2026-09-17,Send proposal
+D-1192,Cedarsync Digital Services,www.cedarsync.io,Proposal,4500,2027-03-20,Priya Natarajan,2025-07-16,2026-07-26,Technical validation
+D-1193,Plakir Labs,plakir.com,Proposal,5000,2026-08-31,Marcus Reed,2023-10-29,2025-06-10,Waiting on legal
+D-1194,Dehol Capital,dehol.io,Evaluation,10000,2026-10-11,Priya Natarajan,2023-07-18,2025-10-21,Send proposal
+D-1195,Hazel Cloud,hazelcloud.io,Proposal,4500,2026-12-22,Sofia Lindqvist,2023-02-17,2026-07-26,Send proposal
+D-1196,Zinniaforge Press,,Proposal,4500,2026-09-09,Daniel Okafor,2023-05-02,2026-09-24,Security review
+D-1197,Ember Ops Renewables,www.ember-ops.com,Discovery,9000,2027-02-19,Sofia Lindqvist,2025-03-24,2026-07-22,Security review
+D-1198,Orchardwave Labs,orchardwavehq.ai,Evaluation,55000,2026-11-04,Léa Marchand,2021-08-23,2026-02-04,Pricing to CFO
+D-1199,Trofelm SL,www.trofelm.es,Evaluation,31000,2027-03-21,Priya Natarajan,2023-05-11,2026-10-05,Send proposal
+D-1200,Furrow Bridge,furrowbridge.co,Negotiation,9000,2027-02-10,Léa Marchand,2026-03-09,2026-03-09,Exec sponsor intro

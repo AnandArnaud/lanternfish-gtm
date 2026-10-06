@@ -1,0 +1,301 @@
+contact_id,first_name,last_name,title,seniority,company_domain,linkedin_url,country
+CT-1001,Aiden,Robinson,Controller,Manager,saffronsenseapp.ai,linkedin.com/in/aiden-robinson,Canada
+CT-1002,Nora,Evans,HR Business Partner,IC,willowpoint.ai,https://www.linkedin.com/in/nora-evans-357b7e/,Canada
+CT-1003,Marie,Neumann,Chief Revenue Officer,,teamviewer.com,www.linkedin.com/in/marie-neumann-8cd5b2,Germany
+CT-1004,Josh,Walker,"VP, Sales",vp,garnetmind.com,linkedin.com/in/josh-walker,United States
+CT-1005,Chloe,Jackson,Product Manager,manager,storakilm.ai,linkedin.com/in/chloe-jackson-c37db23,United States
+CT-1006,Megan,Sato,Account Executive,IC,lumenflow.io,https://www.linkedin.com/in/megan-sato/,United States
+CT-1007,Sébastien,Lefebvre,"VP, Sales",VP,kretot.io,https://www.linkedin.com/in/sebastien-lefebvre,France
+CT-1008,Isla,Nguyen,Director of RevOps,,reply.io,https://www.linkedin.com/in/isla-nguyen,Canada
+CT-1009,Jan,Robert,VP of Growth Marketing,VP,alderline.com,https://www.linkedin.com/in/jan-robert-a6d871/,Switzerland
+CT-1010,Sophie,Klein,Product Designer,IC,heronspark.ai,https://www.linkedin.com/in/sophie-klein,Germany
+CT-1011,Mathilde,Lambert,Chief Revenue Officer,C-level,sarbacane.com,linkedin.com/in/mathilde-lambert,France
+CT-1012,Lily,Sharma,Account Executive,IC,kainos.com,https://www.linkedin.com/in/lily-sharma,United Kingdom
+CT-1013,Alexandre,Laurent,"VP, Sales",vp,wheat-sync.io,https://fr.linkedin.com/in/alexandre-laurent-360e66/,France
+CT-1014,Zoe,Morris,Sales Development Representative,IC,tabralm.com,https://www.linkedin.com/in/zoe-morris-20eed,United States
+CT-1015,Nicolas,Perrin,"VP, Sales",VP,roseauops.ai,https://www.linkedin.com/in/nicolas-perrin/,France
+CT-1016,Lucas,Lewis,Controller,Manager,pandadoc.com,https://www.linkedin.com/in/lucas-lewis,United States
+CT-1017,Freya,Evans,Head of Sales Operations,Head,elevenlabs.io,www.linkedin.com/in/freya-evans-e8515,United Kingdom
+CT-1018,Zoe,Wang,HR Business Partner,IC,sablenode.com,https://www.linkedin.com/in/zoe-wang,Italy
+CT-1019,Ben,Walker,Head of GTM (EMEA),Head,oakpilot.com,linkedin.com/in/ben-walker,United States
+CT-1020,Ben,Evans,Sales Development Representative,IC,quizov.com,https://www.linkedin.com/in/ben-evans-f0cbc1d/,United Kingdom
+CT-1021,Amélie,Guérin,VP of Sales,VP,valloncloud.co,https://fr.linkedin.com/in/amelie-guerin-979297/,France
+CT-1022,Lily,Jackson,Head of People,,mintscale.io,www.linkedin.com/in/lily-jackson,United States
+CT-1023,Sophie,Zimmermann,Finance Manager,Manager,nemetschek.com,linkedin.com/in/sophie-zimmermann-c5be705,Germany
+CT-1024,Rachel,Wright,Data Analyst,IC,asterspark.io,www.linkedin.com/in/rachel-wright-b51c68e,Israel
+CT-1025,Liam,Fernandez,Head of Go-to-Market,Head,wheatstack.io,https://www.linkedin.com/in/liam-fernandez-ef5402/,United Kingdom
+CT-1026,Samuel,Murphy,Recruiter,IC,checkout.com,www.linkedin.com/in/samuel-murphy,United Kingdom
+CT-1027,Sarah,Garcia,VP Sales EMEA,VP,brumesoft.com,www.linkedin.com/in/sarah-garcia,France
+CT-1028,Ananya,Chen,VP Growth,VP,arborframe.com,linkedin.com/in/ananya-chen,United States
+CT-1029,Mei,Thomas,CEO,,vellumware.io,https://www.linkedin.com/in/mei-thomas-945c0ab,Portugal
+CT-1030,Céline,Henry,VP Sales,VP,tilleulcloud.io,linkedin.com/in/celine-henry-3691b,France
+CT-1031,Laura,Tanaka,"VP, Sales",vp,irislane.com,linkedin.com/in/laura-tanaka,NZ
+CT-1032,Mathilde,Leroy,VP Sales EMEA,VP,quaylayer.co,https://fr.linkedin.com/in/mathilde-leroy/,France
+CT-1033,Lena,Schulz,Chief Revenue Officer,C-level,gable-flow.io,https://www.linkedin.com/in/lena-schulz/,Germany
+CT-1034,Paul,Martin,Director of RevOps,Director,alderline.com,https://www.linkedin.com/in/paul-martin-74b50,Switzerland
+CT-1035,Claire,Patel,CFO,,sibrot.co,www.linkedin.com/in/claire-patel,United States
+CT-1036,Andrew,Baker,Head of GTM,Head,flintsoft.com,www.linkedin.com/in/andrew-baker,United Kingdom
+CT-1037,Ryan,O'Brien,VP Marketing,VP,atlassian.com,linkedin.com/in/ryan-o-brien-66ab9b4,Australia
+CT-1038,Andrew,Green,VP of Growth Marketing,VP,dugrov.co,linkedin.com/in/andrew-green-4d792a,USA
+CT-1039,Ananya,Smith,Head of Sales Operations,Head,multiverse.io,https://uk.linkedin.com/in/ananya-smith-98e9c/,United Kingdom
+CT-1040,Arjun,Taylor,"VP, Sales",VP,rowanpilot.com,https://www.linkedin.com/in/arjun-taylor,Canada
+CT-1041,Lily,Johnson,Engineering Manager,Manager,iris-flow.ai,https://www.linkedin.com/in/lily-johnson-d71a3,United States
+CT-1042,Sébastien,Garcia,Head of Revenue,head,sarbacane.com,https://fr.linkedin.com/in/sebastien-garcia/,France
+CT-1043,Henry,Harris,Head of Revenue Operations,Head,zuora.com,https://www.linkedin.com/in/henry-harris-8a92d,USA
+CT-1044,Johan,Svensson,Head of GTM,Head,orchardwavehq.ai,www.linkedin.com/in/johan-svensson-93de4,Sweden
+CT-1045,Sébastien,Durand,Vice President of Sales,VP,moussemetrics.io,linkedin.com/in/sebastien-durand-d6e2198,France
+CT-1046,Daniel,Sato,Head of Revenue Operations,Head,ringcentral.com,https://www.linkedin.com/in/daniel-sato-7e8efe5/,United States
+CT-1047,Pauline,Blanc,VP Sales EMEA,VP,falaisesystemes.com,https://www.linkedin.com/in/pauline-blanc-92aae,France
+CT-1048,Isla,Taylor,Head of People,Head,getlindensense.com,www.linkedin.com/in/isla-taylor-79833,United States
+CT-1049,Adam,Sato,Content Marketing Manager,Manager,arborframe.com,https://www.linkedin.com/in/adam-sato,United States
+CT-1050,Niklas,Koch,Head of Sales,Head,puhen.io,https://www.linkedin.com/in/niklas-koch-a7898,Germany
+CT-1051,Tim,Müller,CEO,,basilify.com,https://www.linkedin.com/in/tim-muller-edb8702,Germany
+CT-1052,Alice,Fernandez,Head of GTM (EMEA),head,cobbledesk.com,https://www.linkedin.com/in/alice-fernandez/,United States
+CT-1053,Caleb,Lopez,Engineering Manager,manager,reedcloud.co,https://www.linkedin.com/in/caleb-lopez-9f83c4,USA
+CT-1054,Ava,Hill,VP of Growth Marketing,VP,asterdesk.co,linkedin.com/in/ava-hill-c2620a9,United States
+CT-1055,James,Chen,Head of Growth,Head,dynatrace.com,linkedin.com/in/james-chen,United States
+CT-1056,Freya,Chen,Vice President of Sales,VP,bramblepath.com,https://www.linkedin.com/in/freya-chen/,United States
+CT-1057,Chris,Walker,Account Executive,IC,oakcloud.com,www.linkedin.com/in/chris-walker,India
+CT-1058,Ava,Hall,Support Lead,Manager,getivoryspark.io,https://www.linkedin.com/in/ava-hall-bb1b9/,United States
+CT-1059,Benoît,Bernard,Head of Growth,Head,klaxoon.com,www.linkedin.com/in/benoit-bernard,France 
+CT-1060,Chloé,Durand,VP of Sales,VP,lysops.io,https://www.linkedin.com/in/chloe-durand,France
+CT-1061,Wei,Green,Co-founder & CEO,C-level,grezel.io,linkedin.com/in/wei-green-3e1eb8,United States
+CT-1062,Amy,Jackson,Director of Growth,Director,hootsuite.com,https://ca.linkedin.com/in/amy-jackson-a6d70/,Canada
+CT-1063,Mason,Davies,Head of Revenue,Head,russetdeskhq.ai,https://www.linkedin.com/in/mason-davies-288f85/,United States
+CT-1064,Chris,Lopez,Office Manager,Manager,umberify.io,linkedin.com/in/chris-lopez,United States
+CT-1065,Élodie,Dubois,Chief Growth Officer,C-level,asterworks.io,https://www.linkedin.com/in/elodie-dubois/,Belgium
+CT-1066,Maximilian,Koch,CRO,C-level,secunet.com,https://de.linkedin.com/in/maximilian-koch-ef66cd/,Germany
+CT-1067,Sem,de Boer,Solutions Engineer,ic,rastort.co,https://www.linkedin.com/in/sem-de-boer/,Netherlands
+CT-1068,Mathilde,Morel,Vice President of Sales,VP,joncsolutions.co,https://fr.linkedin.com/in/mathilde-morel/,France
+CT-1069,Lars,Visser,VP GTM Strategy,VP,mambu.com,https://nl.linkedin.com/in/lars-visser/,Netherlands
+CT-1070,Grace,Johnson,Head of Go-to-Market,Head,mosssignal.ai,www.linkedin.com/in/grace-johnson-99c73,Canada
+CT-1071,Samuel,Smith,Vice President of Sales,VP,willowcraft.co,https://www.linkedin.com/in/samuel-smith/,Italy
+CT-1072,Ruby,Wang,SVP Sales,VP,renebis.co,https://www.linkedin.com/in/ruby-wang-730bd,United States
+CT-1073,Matt,Fitzgerald,CTO,C-level,dremit.io,https://www.linkedin.com/in/matt-fitzgerald-0dc23/,United States
+CT-1074,Ananya,Wood,VP Sales,VP,healthcatalyst.com,https://www.linkedin.com/in/ananya-wood-24c73/,US
+CT-1075,Caleb,Ward,Head of Revenue,Head,churnzero.com,linkedin.com/in/caleb-ward,United States
+CT-1076,Priya,Bell,Account Executive,IC,sorrelsoft.com,www.linkedin.com/in/priya-bell-8bb4c,United States
+CT-1077,Rohan,Roberts,"VP, Sales",VP,wrenify.com,linkedin.com/in/rohan-roberts-a8b188f,India
+CT-1078,Pablo,Moreno,Head of GTM,Head,heronlayer.com,https://www.linkedin.com/in/pablo-moreno-c25677/,Spain
+CT-1079,Chris,Lopez,VP Marketing,VP,supabase.com,www.linkedin.com/in/chris-lopez-ca7c1,united states
+CT-1080,Manon,Guérin,"VP, Sales",VP,dratelm.io,www.linkedin.com/in/manon-guerin,France
+CT-1081,Samuel,Hall,Sales Development Representative,IC,totango.com,linkedin.com/in/samuel-hall,United States
+CT-1082,Lucas,Sato,Account Executive,IC,verint.com,https://www.linkedin.com/in/lucas-sato/,United States
+CT-1083,Felix,Wagner,Engineering Manager,Manager,arborlane.com,www.linkedin.com/in/felix-wagner,Germany
+CT-1084,Paul,Koch,VP of Growth Marketing,VP,basilify.com,https://de.linkedin.com/in/paul-koch/,Germany
+CT-1085,Samuel,Walker,VP Growth,VP,fusolm.io,https://www.linkedin.com/in/samuel-walker-ad60572/,Australia
+CT-1086,Sarah,Laurent,VP Sales EMEA,VP,getlierrecloud.ai,https://www.linkedin.com/in/sarah-laurent,France
+CT-1087,Lisa,Zimmermann,Engineering Manager,Manager,camunda.com,https://de.linkedin.com/in/lisa-zimmermann/,Germany
+CT-1088,Sébastien,Dupont,VP of Sales,,getplovernode.co,https://www.linkedin.com/in/sebastien-dupont/,France
+CT-1089,Guillaume,Guérin,Software Engineer,IC,landesystemes.io,linkedin.com/in/guillaume-guerin-6f55e4,France
+CT-1090,Anouk,Moreau,VP Marketing,VP,quonelm.io,https://www.linkedin.com/in/anouk-moreau-01700/,Belgium
+CT-1091,Ben,Taylor,Product Designer,IC,getridgesignal.com,https://uk.linkedin.com/in/ben-taylor-da577f/,United Kingdom
+CT-1092,Chris,Brown,Co-founder & CEO,,lightspeedhq.com,linkedin.com/in/chris-brown-918690,Canada
+CT-1093,Sébastien,Leroy,"VP, Sales",vp,oreeops.com,https://fr.linkedin.com/in/sebastien-leroy/,France
+CT-1094,Ryan,Chen,Finance Manager,Manager,junipergrid.com,https://www.linkedin.com/in/ryan-chen/,New Zealand
+CT-1095,Claire,Roberts,Head of GTM,Head,flocodrox.com,https://www.linkedin.com/in/claire-roberts-098bff,Australia
+CT-1096,Kenji,Martin,Product Manager,manager,birch-path.com,linkedin.com/in/kenji-martin,United States
+CT-1097,Romain,Morel,"VP, Sales",VP,mopridra.io,https://fr.linkedin.com/in/romain-morel-bb0f96/,France
+CT-1098,Claire,Harris,COO,,1password.com,https://www.linkedin.com/in/claire-harris-44b280b/,Canada
+CT-1099,Wei,Sharma,CEO,,reedstream.ai,linkedin.com/in/wei-sharma,Israel
+CT-1100,Marie,Schmidt,Marketing Manager,Manager,vucot.io,www.linkedin.com/in/marie-schmidt-3a4d0f9,Germany
+CT-1101,Daan,Bakker,Chief Revenue Officer,c-level,exact.com,https://nl.linkedin.com/in/daan-bakker-b1924/,Netherlands
+CT-1102,Henry,Wood,Data Analyst,IC,ploverpilot.io,https://www.linkedin.com/in/henry-wood-a92291c,United States
+CT-1103,Léa,Faure,"VP, Sales",VP,halagemetrics.io,https://fr.linkedin.com/in/lea-faure-b9be354/,France
+CT-1104,Benoît,Moreau,VP Sales,VP,lyssoft.com,https://www.linkedin.com/in/benoit-moreau/,France
+CT-1105,Ben,Murphy,HR Business Partner,IC,taske.com,https://uk.linkedin.com/in/ben-murphy/,United Kingdom
+CT-1106,Ella,Patel,Product Designer,IC,prafikelm.io,linkedin.com/in/ella-patel-1c2280f,Ireland
+CT-1107,Romain,Blanc,VP Sales EMEA,VP,getmarnelabs.io,https://fr.linkedin.com/in/romain-blanc-b2c568/,France
+CT-1108,Inès,Laurent,"VP, Sales",VP,grevenumerique.com,https://www.linkedin.com/in/ines-laurent-1ba3b31,France
+CT-1109,Adam,Roberts,Finance Manager,Manager,trolot.io,www.linkedin.com/in/adam-roberts,United States
+CT-1110,Céline,Martin,Chief Growth Officer,C-level,iadvize.com,linkedin.com/in/celine-martin,France
+CT-1111,Sophie,Ward,Controller,Manager,inlet-base.com,linkedin.com/in/sophie-ward-fe4813,United States
+CT-1112,Mason,Evans,Data Analyst,,koflil.com,linkedin.com/in/mason-evans-9d2ce,United Kingdom
+CT-1113,Romain,Moreau,VP Sales,VP,loge-tech.com,https://www.linkedin.com/in/romain-moreau-10de2b/,France
+CT-1114,James,Mehta,Head of Sales Operations,head,hazelwave.ai,linkedin.com/in/james-mehta-e7b7f0,Australia
+CT-1115,Quentin,Morel,Head of Demand Generation,Head,deepki.com,https://www.linkedin.com/in/quentin-morel-53260/,FR
+CT-1116,Rachel,Davies,Content Marketing Manager,Manager,thistlely.com,https://www.linkedin.com/in/rachel-davies/,United States
+CT-1117,Javier,López,Head of GTM (EMEA),head,willowscale.com,https://www.linkedin.com/in/javier-lopez-755274/,Spain
+CT-1118,Julien,Mathieu,VP of Growth Marketing,,roctech.io,www.linkedin.com/in/julien-mathieu-4a1914,France
+CT-1119,Yuki,Mehta,CRO,C-level,vellummind.io,https://www.linkedin.com/in/yuki-mehta/,United States
+CT-1120,Anna,Olsson,CEO,C-level,paliclav.ai,https://www.linkedin.com/in/anna-olsson-fef3a/,Norway
+CT-1121,Rohan,White,Head of Demand Generation,Head,infosys.com,www.linkedin.com/in/rohan-white,India
+CT-1122,Lucia,Garcia,VP Sales,VP,zesket.io,https://www.linkedin.com/in/lucia-garcia,United States
+CT-1123,Alice,Nguyen,Marketing Manager,Manager,sanity.io,www.linkedin.com/in/alice-nguyen-16929,United States
+CT-1124,Élodie,Wagner,Head of Revenue Operations,Head,ledgy.com,https://www.linkedin.com/in/elodie-wagner-c88f4,Switzerland
+CT-1125,Kenji,Mehta,VP GTM Strategy,VP,fidrend.com,www.linkedin.com/in/kenji-mehta,United States
+CT-1126,Sarah,Martin,VP Sales,VP,stolax.com,linkedin.com/in/sarah-martin,France
+CT-1127,Jack,Lopez,VP GTM Strategy,VP,weldhub.io,https://uk.linkedin.com/in/jack-lopez-723d01/,United Kingdom
+CT-1128,Anouk,van den Berg,Head of Revenue Operations,Head,datasnipper.com,www.linkedin.com/in/anouk-van-den-berg-7b43bb8,Netherlands
+CT-1129,Clémence,Robert,VP Sales,,dust.tt,https://fr.linkedin.com/in/clemence-robert-2ec47/,France
+CT-1130,Quentin,Petit,VP of Sales,VP,aldermetrics.co,https://fr.linkedin.com/in/quentin-petit-17c31/,France
+CT-1131,Isla,Thompson,Chief Growth Officer,C-level,outsystems.com,https://www.linkedin.com/in/isla-thompson/,Portugal
+CT-1132,Louis,Morel,Chief Commercial Officer,C-level,duvas.io,https://www.linkedin.com/in/louis-morel,FRANCE
+CT-1133,Maxime,Fournier,Vice President of Sales,VP,nookkit.ai,linkedin.com/in/maxime-fournier,France
+CT-1134,Marion,David,CTO,C-level,woldbridge.ai,https://www.linkedin.com/in/marion-david,France
+CT-1135,Sarah,Thomas,Vice President of Sales,VP,nettle-hubapp.io,linkedin.com/in/sarah-thomas-e7ce91,France
+CT-1136,Chloé,Roux,Director of RevOps,Director,doctolib.fr,https://www.linkedin.com/in/chloe-roux,France
+CT-1137,Ella,Hill,"Director, Revenue Operations",Director,casirt.com,https://www.linkedin.com/in/ella-hill-33c8ff,United States
+CT-1138,Bram,Morel,Finance Manager,Manager,amberlane.com,https://www.linkedin.com/in/bram-morel-8a125f1,Belgium
+CT-1139,Lucia,Turner,Account Executive,IC,dehur.com,www.linkedin.com/in/lucia-turner,India
+CT-1140,Mia,Thompson,Head of Go-to-Market,Head,juniperloop.com,linkedin.com/in/mia-thompson,United States
+CT-1141,Clémence,Rousseau,Office Manager,Manager,brevo.com,www.linkedin.com/in/clemence-rousseau,France
+CT-1142,Inès,Thomas,"VP, Sales",VP,pistat.ai,https://fr.linkedin.com/in/ines-thomas/,France
+CT-1143,Grace,Martin,Head of Growth,Head,8x8.com,https://www.linkedin.com/in/grace-martin-d0eff4/,United States
+CT-1144,Lily,Nair,VP Marketing,VP,tansysync.ca,www.linkedin.com/in/lily-nair,Canada
+CT-1145,Océane,Schmidt,VP Sales EMEA,VP,alderline.com,www.linkedin.com/in/oceane-schmidt,Switzerland
+CT-1146,Kenji,Scott,Head of Revenue Operations,Head,quartzdesk.ai,https://ca.linkedin.com/in/kenji-scott-004102/,Canada
+CT-1147,Rohan,Hall,Chief Commercial Officer,C-level,zakrehax.com,linkedin.com/in/rohan-hall-e413f6,United States
+CT-1148,Andrew,White,Head of Demand Generation,Head,kradedethq.com,www.linkedin.com/in/andrew-white-67ab26,United States
+CT-1149,Mia,Davies,Chief Commercial Officer,C-level,getjuniperworks.com,https://www.linkedin.com/in/mia-davies-726c2ae/,United States
+CT-1150,Freya,Thompson,Product Designer,IC,amberstack.io,https://www.linkedin.com/in/freya-thompson-76fcc7,Italy
+CT-1151,Noah,Morris,Founder,C-level,clastov.co,https://www.linkedin.com/in/noah-morris-b331136/,United States
+CT-1152,Adrien,Martinez,Vice President of Sales,vp,gable-point.io,linkedin.com/in/adrien-martinez-82084,France
+CT-1153,Mei,Evans,VP Sales EMEA,VP,getmeadowpath.com,linkedin.com/in/mei-evans,Australia
+CT-1154,Inès,Moreau,"Director, Revenue Operations",Director,didomi.io,linkedin.com/in/ines-moreau-4b1de,France
+CT-1155,Laure,Clément,Customer Success Manager,Manager,mallowhub.com,linkedin.com/in/laure-clement-a78eff,France
+CT-1156,Lotte,de Jong,Chief Growth Officer,C-level,datasnipper.com,https://www.linkedin.com/in/lotte-de-jong,Netherlands
+CT-1157,Manon,Guérin,Head of Revenue,Head,akeneo.com,https://fr.linkedin.com/in/manon-guerin-0dd030b/,France
+CT-1158,Sara,Svensson,Sales Development Representative,IC,larchflow.io,https://www.linkedin.com/in/sara-svensson,Sweden
+CT-1159,Mason,Robinson,Data Analyst,IC,pluralsight.com,https://www.linkedin.com/in/mason-robinson-6ec2f/,United States
+CT-1160,Sophie,Murphy,Chief Commercial Officer,C-level,eddystreamhq.com,www.linkedin.com/in/sophie-murphy,United States
+CT-1161,Nicolas,Lefèvre,VP Sales EMEA,VP,dunelane.io,www.linkedin.com/in/nicolas-lefevre-be660db,France
+CT-1162,Marie,Müller,Head of Growth,head,dunescale.com,https://www.linkedin.com/in/marie-muller/,Austria
+CT-1163,Alejandro,Fernández,Solutions Engineer,IC,tealbasehq.io,https://es.linkedin.com/in/alejandro-fernandez-4f2278/,Spain
+CT-1164,Ava,Walker,CEO,C-level,fenergo.com,https://www.linkedin.com/in/ava-walker/,Ireland
+CT-1165,Ethan,Patel,CFO,c-level,goldmansachs.com,https://www.linkedin.com/in/ethan-patel/,United States
+CT-1166,Sophie,Turner,Product Designer,,ploverkithq.io,www.linkedin.com/in/sophie-turner,India
+CT-1167,Ana,Gómez,SVP Sales,VP,harrowkit.com,linkedin.com/in/ana-gomez,Mexico
+CT-1168,Mia,Garcia,Office Manager,,vanta.com,https://www.linkedin.com/in/mia-garcia-fb512/,United States
+CT-1169,Oliver,Wang,Co-founder & CEO,C-level,cultureamp.com,www.linkedin.com/in/oliver-wang-055640,Australia
+CT-1170,Daniel,Díaz,Head of Sales Operations,Head,sorrelsignal.io,linkedin.com/in/daniel-diaz,Spain
+CT-1171,Alejandro,Pérez,Controller,Manager,jaspershift.com,https://es.linkedin.com/in/alejandro-perez-6ac46d/,Spain
+CT-1172,Ruby,Ward,Head of Revenue Operations,Head,dofalartapp.io,www.linkedin.com/in/ruby-ward-bcc21,United States
+CT-1173,Ethan,Kelly,Director of Growth,Director,getzicond.com,https://www.linkedin.com/in/ethan-kelly/,United States
+CT-1174,Amy,Morris,Director of Growth,Director,krozol.com,linkedin.com/in/amy-morris-933194,United Kingdom
+CT-1175,Ananya,Fitzgerald,Product Designer,IC,garnetpoint.com,linkedin.com/in/ananya-fitzgerald-1a15df1,United States
+CT-1176,Sophie,Patel,Head of People,Head,wheatstack.io,https://www.linkedin.com/in/sophie-patel/,United Kingdom
+CT-1177,Mathilde,André,VP Sales EMEA,VP,oreenumerique.com,https://www.linkedin.com/in/mathilde-andre,France
+CT-1178,Ethan,Clarke,Director of Growth,Director,kremes.com,linkedin.com/in/ethan-clarke-b2461c,Canada
+CT-1179,Johan,Karlsson,VP Sales EMEA,VP,fortnox.se,linkedin.com/in/johan-karlsson-d23b946,Sweden
+CT-1180,Anouk,de Boer,CRO,C-level,channable.com,www.linkedin.com/in/anouk-de-boer,Netherlands
+CT-1181,Sarah,Wright,Head of Sales,Head,gremat.com,https://www.linkedin.com/in/sarah-wright,United States
+CT-1182,James,Edwards,Chief Growth Officer,C-level,broquaflor.com,www.linkedin.com/in/james-edwards,India
+CT-1183,Elin,Larsson,VP Growth,VP,vellumforge.co,https://www.linkedin.com/in/elin-larsson/,Sweden
+CT-1184,Ben,Thompson,Head of People,Head,ncino.com,https://www.linkedin.com/in/ben-thompson-cdb64/,United States
+CT-1185,Lily,Brown,Head of GTM (EMEA),Head,skiplo.io,https://www.linkedin.com/in/lily-brown,Portugal
+CT-1186,Lucia,Johnson,Controller,Manager,kukathq.com,https://www.linkedin.com/in/lucia-johnson-6f634,United States
+CT-1187,Oliver,Chen,VP Sales EMEA,VP,hazelops.com.sg,www.linkedin.com/in/oliver-chen,Singapore
+CT-1188,Adam,Brown,Data Analyst,IC,emberpilot.ai,https://www.linkedin.com/in/adam-brown/,United States
+CT-1189,Mei,Reid,Software Engineer,IC,basilforge.com,https://www.linkedin.com/in/mei-reid-d9470c0,Ireland
+CT-1190,Nicolas,Faure,VP Sales,vp,vignehub.ai,https://www.linkedin.com/in/nicolas-faure,France
+CT-1191,Sarah,Taylor,Solutions Engineer,IC,larchsense.io,linkedin.com/in/sarah-taylor,Portugal
+CT-1192,Sarah,Martin,Office Manager,Manager,alan.com,www.linkedin.com/in/sarah-martin-399fb,France
+CT-1193,Arjun,Evans,Finance Manager,Manager,kripihoxhq.ai,https://www.linkedin.com/in/arjun-evans-d800a7f,United States
+CT-1194,Tom,Thompson,HR Business Partner,IC,petrelline.co,https://www.linkedin.com/in/tom-thompson-fe123d4/,United States
+CT-1195,Anna,Olsson,Solutions Engineer,IC,sinch.com,https://www.linkedin.com/in/anna-olsson,Sweden
+CT-1196,Ethan,Lopez,HR Business Partner,IC,inlet-soft.com,www.linkedin.com/in/ethan-lopez-c091fa,United States
+CT-1197,Mason,Walker,Director of Growth,director,breprasav.io,www.linkedin.com/in/mason-walker,United States
+CT-1198,Linnea,Karlsson,Engineering Manager,Manager,lindenpilot.co,www.linkedin.com/in/linnea-karlsson-04c23f,Finland
+CT-1199,Kate,Morris,Account Executive,IC,sablestack.io,https://www.linkedin.com/in/kate-morris,United Kingdom
+CT-1200,Nicolas,Roux,Vice President of Sales,VP,meadowbridge.com,https://www.linkedin.com/in/nicolas-roux-915b47,France
+CT-1201,Emma,Taylor,Support Lead,manager,zinniaware.com,https://www.linkedin.com/in/emma-taylor-ddbc5a,Canada
+CT-1202,Antoine,Clément,"VP, Sales",VP,getsorrelpath.com,https://www.linkedin.com/in/antoine-clement/,France
+CT-1203,Sophie,Koch,Chief Commercial Officer,C-level,zaplan.com,https://www.linkedin.com/in/sophie-koch/,Germany
+CT-1204,Nora,Chen,Head of Revenue Operations,,flintflow.io,linkedin.com/in/nora-chen-9a0d17,United States
+CT-1205,Lucas,Evans,Head of GTM (EMEA),Head,vtex.com,https://www.linkedin.com/in/lucas-evans,Brazil
+CT-1206,Mason,O'Brien,Chief Commercial Officer,C-level,exotel.com,linkedin.com/in/mason-o-brien,India
+CT-1207,Thomas,Lefebvre,Founder,,ecume-datahq.io,www.linkedin.com/in/thomas-lefebvre-92b3f52,France
+CT-1208,Clémence,Dupont,Head of Sales,Head,bleustudio.com,https://www.linkedin.com/in/clemence-dupont,France
+CT-1209,Maxime,Martinez,VP Sales,VP,nacrehub.ai,www.linkedin.com/in/maxime-martinez,FRANCE
+CT-1210,Henry,O'Brien,SVP Sales,VP,epicor.com,https://www.linkedin.com/in/henry-o-brien-55c84b/,United States
+CT-1211,Tom,Fitzgerald,Head of Go-to-Market,Head,metraqua.ai,https://www.linkedin.com/in/tom-fitzgerald/,United States
+CT-1212,Daniel,Patel,Office Manager,Manager,dademalm.com,linkedin.com/in/daniel-patel-0db5bb,Italy
+CT-1213,Mia,Ward,Head of GTM,Head,dapplegridapp.ai,https://www.linkedin.com/in/mia-ward,United Kingdom
+CT-1214,Julia,Wagner,Customer Success Manager,Manager,robrel.io,www.linkedin.com/in/julia-wagner-68497,CH
+CT-1215,Vincent,Blanc,VP Marketing,VP,jacherehub.com,https://www.linkedin.com/in/vincent-blanc-7dd44/,France
+CT-1216,Mason,Harris,Head of People,Head,varar.ai,www.linkedin.com/in/mason-harris-7044af1,Italy
+CT-1217,Isla,Nair,Content Marketing Manager,,amberstack.io,www.linkedin.com/in/isla-nair-9a740,Italy
+CT-1218,Alice,Baker,Director of RevOps,Director,birch-path.com,linkedin.com/in/alice-baker-ca84b5c,United States
+CT-1219,Jack,Hall,Founder,c-level,loambase.co,linkedin.com/in/jack-hall-b6450,Canada
+CT-1220,Hannah,White,Head of Revenue Operations,Head,rillgrid.io,https://www.linkedin.com/in/hannah-white/,IN
+CT-1221,Romain,Dubois,VP of Sales,VP,vellum-bridgeapp.com,https://www.linkedin.com/in/romain-dubois-fdafa1/,France
+CT-1222,Kate,Roberts,Solutions Engineer,IC,lindenstream.io,https://www.linkedin.com/in/kate-roberts-961300/,United States
+CT-1223,Rachel,Ward,CEO,C-level,knollware.io,www.linkedin.com/in/rachel-ward,USA
+CT-1224,Ruby,Roberts,Co-founder & CEO,C-level,storakilm.ai,linkedin.com/in/ruby-roberts-36824,United States
+CT-1225,Romain,Jansen,Sales Development Representative,IC,sifand.io,https://www.linkedin.com/in/romain-jansen/,Belgium
+CT-1226,Noah,Fitzgerald,VP Marketing,VP,vellumlabs.co,https://www.linkedin.com/in/noah-fitzgerald-790dd9/,Portugal
+CT-1227,Kenji,Cooper,VP Sales,,shopify.com,https://www.linkedin.com/in/kenji-cooper-c6dde/,Canada
+CT-1228,Louis,Vincent,VP of Growth Marketing,VP,ecumestudio.co,https://www.linkedin.com/in/louis-vincent,France
+CT-1229,Mei,Morris,VP GTM Strategy,VP,getdbt.com,https://www.linkedin.com/in/mei-morris-0529e6,United States
+CT-1230,Sarah,King,CRO,,weld-lane.io,www.linkedin.com/in/sarah-king,United States
+CT-1231,Sébastien,Simon,VP Growth,VP,mylighthouse.com,linkedin.com/in/sebastien-simon-c1ee563,Belgium
+CT-1232,Laura,Nair,Sales Development Representative,IC,ploverhub.co,https://www.linkedin.com/in/laura-nair-29bd3/,United States
+CT-1233,Amélie,Morin,Head of Sales,Head,crest-forge.com,https://www.linkedin.com/in/amelie-morin-62f59/,France
+CT-1234,Kate,Kelly,Head of Sales Operations,Head,ploverworks.com,www.linkedin.com/in/kate-kelly-5247c,United States
+CT-1235,Inès,Laurent,Office Manager,Manager,abtasty.com,www.linkedin.com/in/ines-laurent,France
+CT-1236,Louis,Richard,Finance Manager,Manager,lanternforge.io,www.linkedin.com/in/louis-richard-d1b9d4,Switzerland
+CT-1237,Isla,Johnson,Product Designer,IC,proplofox.ai,https://www.linkedin.com/in/isla-johnson-ece120,United States
+CT-1238,Aiden,Green,Office Manager,Manager,megrert.com,linkedin.com/in/aiden-green,United States
+CT-1239,Lily,White,Marketing Manager,Manager,tealline.ai,https://www.linkedin.com/in/lily-white-b931fe/,Japan
+CT-1240,Claire,Hall,CFO,C-level,ivorydesk.io,https://www.linkedin.com/in/claire-hall/,United States
+CT-1241,Alejandro,Gómez,CRO,C-level,flekrogrut.com,www.linkedin.com/in/alejandro-gomez-7aeb18,Mexico
+CT-1242,Julien,Mathieu,Finance Manager,Manager,getvertops.co,https://www.linkedin.com/in/julien-mathieu-0e76931,France
+CT-1243,Laure,Martinez,Sales Development Representative,IC,houle-studio.com,linkedin.com/in/laure-martinez-5345d1,France
+CT-1244,Jan,Neumann,Data Analyst,,lindensignal.com,https://www.linkedin.com/in/jan-neumann/,Austria
+CT-1245,Nicolas,Durand,VP Sales,VP,ormeaumetrics.io,linkedin.com/in/nicolas-durand,France
+CT-1246,Laura,Jackson,Controller,Manager,linden-forge.com,linkedin.com/in/laura-jackson-398dc,United States
+CT-1247,Julia,Wagner,VP Revenue Operations,,commercetools.com,https://www.linkedin.com/in/julia-wagner-d022880/,Germany
+CT-1248,Florian,Dupont,COO,c-level,deliverect.com,www.linkedin.com/in/florian-dupont-5b4f6f,Belgium
+CT-1249,Laura,King,Office Manager,Manager,yarrowpoint.co,https://www.linkedin.com/in/laura-king/,United States
+CT-1250,Zoe,Thompson,Chief Commercial Officer,C-level,quay-wave.com,https://www.linkedin.com/in/zoe-thompson-8cf6a86/,Japan
+CT-1251,Chloe,Lopez,Support Lead,Manager,sumologic.com,www.linkedin.com/in/chloe-lopez-dc0d48,United States
+CT-1252,Samuel,Jackson,Head of Demand Generation,Head,tonas.io,www.linkedin.com/in/samuel-jackson-6efce,India
+CT-1253,Céline,Mathieu,Vice President of Sales,VP,tourbedata.com,https://fr.linkedin.com/in/celine-mathieu-d7f38a/,France
+CT-1254,Alexandre,Fournier,VP of Sales,VP,riveops.ai,https://www.linkedin.com/in/alexandre-fournier/,France
+CT-1255,Sarah,Weber,Account Executive,IC,lumenframe.ai,www.linkedin.com/in/sarah-weber,Germany
+CT-1256,Jan,Schmidt,Data Analyst,IC,traso.ai,https://www.linkedin.com/in/jan-schmidt-0c53078,Germany
+CT-1257,Pauline,Lefèvre,Vice President of Sales,VP,tealcraft.com,linkedin.com/in/pauline-lefevre,France
+CT-1258,Marion,Roux,VP of Growth Marketing,vp,alan.com,linkedin.com/in/marion-roux,France
+CT-1259,Céline,Faure,Vice President of Sales,VP,frichelogic.com,https://www.linkedin.com/in/celine-faure-abfd6f/,France
+CT-1260,Adam,Brown,Head of GTM (EMEA),Head,everbridge.com,www.linkedin.com/in/adam-brown-54ba4c,United States
+CT-1261,Ella,Johnson,VP Sales,VP,willowify.com,linkedin.com/in/ella-johnson,Ireland
+CT-1262,Nora,Morris,VP Revenue Operations,VP,flintspark.com,www.linkedin.com/in/nora-morris-b810d5,India
+CT-1263,Niklas,Fischer,Head of Revenue,Head,getdrinir.com,linkedin.com/in/niklas-fischer-e42bd,Austria
+CT-1264,Laura,Morris,Data Analyst,IC,getverdantsoft.com,https://www.linkedin.com/in/laura-morris/,United States
+CT-1265,Guillaume,Bernard,VP of Sales,VP,marnemetrics.io,https://fr.linkedin.com/in/guillaume-bernard/,France
+CT-1266,Jess,Thomas,Chief Commercial Officer,C-level,garnetmind.com,www.linkedin.com/in/jess-thomas-34448d,United States
+CT-1267,Juliette,Martin,Vice President of Sales,VP,galetops.ai,https://www.linkedin.com/in/juliette-martin/,France
+CT-1268,Mia,Kelly,CRO,C-level,getmeadowpath.com,linkedin.com/in/mia-kelly,Australia
+CT-1269,Ben,Hill,Chief Revenue Officer,C-level,getivoryspark.io,https://www.linkedin.com/in/ben-hill-b7c64/,United States
+CT-1270,Arjun,Murphy,SVP Sales,VP,getislekit.ai,https://www.linkedin.com/in/arjun-murphy-14aea/,United States
+CT-1271,Nathan,Ward,Product Manager,Manager,mintdesk.com,https://www.linkedin.com/in/nathan-ward-93d675d,United States
+CT-1272,Hannah,White,Account Executive,IC,inletlayer.co,https://www.linkedin.com/in/hannah-white/,India
+CT-1273,Pierre,Laurent,VP of Sales,vp,marnedigital.com,https://www.linkedin.com/in/pierre-laurent-fc4dfa,France
+CT-1274,Pauline,Simon,VP Sales,VP,tilleulcloud.com,www.linkedin.com/in/pauline-simon-f01ef04,France
+CT-1275,Amélie,Leroy,VP Sales,VP,roctech.io,linkedin.com/in/amelie-leroy-c82f6,France
+CT-1276,Chloe,Lopez,CTO,C-level,flabetrat.io,https://www.linkedin.com/in/chloe-lopez-fb47f/,United States
+CT-1277,Rachel,Clarke,VP Marketing,VP,getdreclo.io,https://www.linkedin.com/in/rachel-clarke/,United States
+CT-1278,Noah,Fitzgerald,Chief Commercial Officer,C-level,churnzero.com,www.linkedin.com/in/noah-fitzgerald,United States
+CT-1279,María,Ruiz,Head of People,Head,teallane.ai,linkedin.com/in/maria-ruiz-d419f,Mexico
+CT-1280,Chris,Chen,VP Marketing,VP,dapplekit.co,linkedin.com/in/chris-chen-c9abb9,Italy
+CT-1281,Lucas,Ward,Solutions Engineer,IC,twilio.com,https://www.linkedin.com/in/lucas-ward,United States
+CT-1282,Wei,Turner,Solutions Engineer,IC,cedarsync.io,https://www.linkedin.com/in/wei-turner/,United States
+CT-1283,Océane,Thomas,Chief Commercial Officer,C-level,bnpparibas.com,https://www.linkedin.com/in/oceane-thomas-513f75/,France
+CT-1284,Laure,Blanc,Head of Demand Generation,Head,danone.com,https://fr.linkedin.com/in/laure-blanc/,France
+CT-1285,Freya,Kelly,Chief Growth Officer,C-level,appian.com,www.linkedin.com/in/freya-kelly,United States
+CT-1286,Jack,Evans,Head of Go-to-Market,Head,brookframe.com,linkedin.com/in/jack-evans-f14423a,United States
+CT-1287,Claire,Baker,Head of Growth,Head,brebolm.ai,https://www.linkedin.com/in/claire-baker/,United States
+CT-1288,Rachel,Tanaka,Chief Revenue Officer,C-level,flaquokix.io,linkedin.com/in/rachel-tanaka,United States
+CT-1289,Rohan,Thomas,VP Growth,VP,rosond.ai,https://www.linkedin.com/in/rohan-thomas/,Australia
+CT-1290,Tom,Hughes,Marketing Manager,Manager,cairnsoft.com,https://www.linkedin.com/in/tom-hughes-1ec80,United Kingdom
+CT-1291,Agathe,Rousseau,VP of Growth Marketing,VP,klaxoon.com,linkedin.com/in/agathe-rousseau,France
+CT-1292,Andrew,Mehta,Controller,Manager,costar.com,https://www.linkedin.com/in/andrew-mehta-aba27/,United States
+CT-1293,Ananya,Martin,VP GTM Strategy,VP,pragort.io,https://www.linkedin.com/in/ananya-martin-2827ed,United States
+CT-1294,Nora,Nair,Finance Manager,Manager,bill.com,https://www.linkedin.com/in/nora-nair-dd6fc/,United States
+CT-1295,Ava,Clarke,Founder,C-level,quihilm.com,https://www.linkedin.com/in/ava-clarke-474e8/,India
+CT-1296,Grace,Wright,Office Manager,Manager,cinalm.com,https://www.linkedin.com/in/grace-wright-a9325/,United States
+CT-1297,Chris,Evans,Director of Growth,Director,thistleifyhq.com,www.linkedin.com/in/chris-evans,United States
+CT-1298,Camille,Martinez,Head of Growth,Head,kaquund.com,https://www.linkedin.com/in/camille-martinez/,Belgium
+CT-1299,Mei,Wood,Sales Development Representative,IC,krataskert.ai,linkedin.com/in/mei-wood,United States
+CT-1300,Diego,Kelly,Sales Development Representative,IC,woldlane.com,https://www.linkedin.com/in/diego-kelly/,United States

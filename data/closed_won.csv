@@ -1,0 +1,51 @@
+company_name,domain,arr,closed_date,industry,employee_count,funding_stage,lead_investor,use_case
+Hogrex,hogrex.com,139100,2025-12-16,B2B SaaS,417,Series C,Lightspeed Venture Partners,Capacity planning
+Tarnlabs,tarnlabs.com,772100,2021-11-03,B2B SaaS,1469,Series D,Kleiner Perkins,Pipeline forecasting
+Progress Software,,1100300,2021-10-19,Developer Tools,2500,Public,,Weekly forecast call
+Fortinet,fortinet.com,325100,2023-08-07,Cybersecurity,14000,Public,,Renewal forecasting
+Duneloop Security,duneloop.io,32800,2024-02-16,Cybersecurity,44,Series B,Khosla Ventures,Renewal forecasting
+Workable,workable.com,31700,2025-01-16,HR Tech,400,Series B,Balderton Capital,Weekly forecast call
+Slatebase,slatebase.ai,28500,2024-09-16,MarTech,124,Series B,Lightspeed Venture Partners,Weekly forecast call
+AIRCALL,aircall.io,166700,2026-08-04,B2B SaaS,700,Series D,Goldman Sachs Asset Management,Pipeline forecasting
+Nacre Tech,nacretech.com,391500,2024-02-17,B2B SaaS,927,,,Pipeline hygiene
+Taga Freight Oy,taga.io,24600,2025-01-30,Logistics,54,Bootstrapped,,Board reporting
+Islesoft,islesoft.com,230500,2025-12-30,Data & Analytics,363,Series D,Project A,Pipeline hygiene
+NacreHub,nacrehub.ai,24600,2026-02-15,B2B SaaS,166,Seed,Breega,Renewal forecasting
+SabotLogiciels BV,sabotlogiciels.io,18400,2022-01-10,Cybersecurity,145,Bootstrapped,,Pipeline forecasting
+Vafulm,vafulm.com,31500,2025-01-22,Developer Tools,143,Series C,GV,Weekly forecast call
+AubierOps,aubierops.io,140600,2025-02-01,B2B SaaS,369,Series C,Project A,Capacity planning
+Akeneo,akeneo.com,182700,2025-05-03,B2B SaaS,400,Series D,Summit Partners,Pipeline hygiene
+Celonis,celonis.com,386700,2024-07-29,Data & Analytics,3000,Growth,Qatar Investment Authority,Renewal forecasting
+Cairnline Data,cairnline.io,66500,2022-10-29,Data & Analytics,258,Series C,Thrive Capital,Renewal forecasting
+Exact,exact.com,233700,2024-09-21,Enterprise Software,2000,Growth,KKR,Weekly forecast call
+Larchpath Software GmbH,larchpathapp.com,6100,2025-07-11,Enterprise Software,10,Bootstrapped,,Weekly forecast call
+Supabase,supabase.com,18000,2022-12-09,Developer Tools,150,Series D,Accel,Weekly forecast call
+Agicap,agicap.com,193900,2022-02-13,Fintech,600,Series C,Greenoaks,Weekly forecast call
+Fjord Scale,fjordscale.ai,822000,2025-08-18,MarTech,4040,Public,,Pipeline hygiene
+Ospreyify People Inc.,ospreyify.ai,99000,2021-12-21,HR Tech,260,Series B,,Pipeline forecasting
+Reedstack,reedstack.ai,540300,2025-11-08,Developer Tools,25452,Public,,Capacity planning
+SUSE,suse.com,789200,2025-09-13,Developer Tools,2500,Growth,EQT,Territory planning
+Osprey Bridge,ospreybridge.com,471100,2026-05-31,B2B SaaS,2043,Growth,Salesforce Ventures,Weekly forecast call
+Custen,custen.ai,401700,2022-09-20,B2B SaaS,36698,Public,,Capacity planning
+Sorrelbridge,sorrelbridge.io,7000,2023-05-07,Cybersecurity,5,Bootstrapped,,Territory planning
+Dapplesense Pay,dapplesense.com,23300,2023-02-04,Fintech,31,Series A,Vista Equity Partners,Pipeline forecasting
+Larchgrid Systems,larchgrid.co,103600,2025-10-07,Enterprise Software,219,Series C,,Pipeline hygiene
+Nimbus Bridge Software,nimbusbridge.ai,105700,2024-09-22,Enterprise Software,788,Series D,Andreessen Horowitz,Weekly forecast call
+Showpad,showpad.com,191200,2023-01-20,B2B SaaS,400,Series D,Insight Partners,Renewal forecasting
+Pikeops,,200300,2021-07-23,B2B SaaS,728,Series D,Benchmark,Pipeline hygiene
+Entrata,entrata.com,247400,2026-06-03,B2B SaaS,2500,Growth,Silver Lake,Weekly forecast call
+Skabun,skabunapp.io,10200,2023-01-18,Developer Tools,43,Series B,Bpifrance,Pipeline forecasting
+Defacto,,38500,2024-03-05,Fintech,50,Series B,Citi Ventures,Territory planning
+Armis,armis.com,305200,2022-06-20,Cybersecurity,900,Growth,General Catalyst,Weekly forecast call
+Harrowforge Finance,harrowforge.co,71700,2026-01-05,Fintech,125,Series B,,Weekly forecast call
+Freshworks,freshworks.com,816300,2023-07-11,B2B SaaS,4800,Public,,Pipeline forecasting
+Birchlayer Limited,,21700,2023-08-13,B2B SaaS,159,Series B,Accel,Board reporting
+Bosot HQ,bosot.com,15300,2022-10-03,B2B SaaS,70,Series A,General Catalyst,Pipeline forecasting
+Integral Ad Science,integralads.com,55800,2024-12-18,MarTech,1000,Public,,Rep-level forecast accuracy
+Sedgeloop,sedgeloop.com,9000,2026-03-03,Developer Tools,104,Series C,Bessemer Venture Partners,Territory planning
+Flintsoft,flintsoft.com,27000,2022-06-21,Cybersecurity,272,Series C,Bessemer Venture Partners,Pipeline forecasting
+SonarSource,sonarsource.com,106800,2021-10-01,Developer Tools,600,Growth,Advent International,Capacity planning
+Wren Node Security,wrennodehq.io,56500,2024-04-13,Cybersecurity,225,Series B,ISAI,Renewal forecasting
+Vellum Scale Labs,vellum-scale.io,19700,2026-07-04,B2B SaaS,37,Series B,Bessemer Venture Partners,Renewal forecasting
+ComplyAdvantage,complyadvantage.com,118600,2022-03-15,Fintech,400,Series C,Ontario Teachers' Pension Plan,Board reporting
+Inletops Software,getinletops.co,196400,2022-02-20,Enterprise Software,466,Series D,Summit Partners,Board reporting
