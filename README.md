@@ -63,6 +63,7 @@ here. Do not hand-edit them. If you clean something, write the cleaned file next
 | `data/contacts.csv` | 300 | people we know at those accounts. No email column: the previous export tool stripped it and nobody re-added it |
 | `data/deals.csv` | 200 | open pipeline |
 | `data/closed_won.csv` | 50 | every customer we have closed, with ARR and what they bought us for |
+| `data/prospects.csv` | 5,000 | not a CRM export: the list Tom bought from a list vendor in September. Company name and domain, nothing else. Roughly a tenth are already in the CRM; nobody has qualified any of it yet |
 
 Column notes for `accounts.csv`: `lifecycle_stage` is lead/mql/sql/opportunity/customer/churned.
 The seat, health, login, ticket and ARR columns are only filled for customers. `parent_company` is only
